@@ -12,11 +12,6 @@ themeButton.addEventListener("click", function () {
 
 });
 
-
-// =========================
-// Contact Form
-// =========================
-
 const contactForm = document.getElementById("contactForm");
 const formMessage = document.getElementById("formMessage");
 
