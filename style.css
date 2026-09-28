@@ -290,9 +290,7 @@ footer {
 }
 
 
-/* =========================
-   Dark Mode
-========================= */
+
 
 body.dark-mode {
     background: #111827;
@@ -315,11 +313,7 @@ body.dark-mode .project-card {
 }
 
 
-/* =========================
-   Responsive Design
-========================= */
 
-/* Tablet */
 
 @media (max-width: 800px) {
 
