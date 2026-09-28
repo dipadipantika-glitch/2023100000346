@@ -274,9 +274,6 @@ section h2 {
 }
 
 
-/* =========================
-   Footer
-========================= */
 
 footer {
     background: #111827;
@@ -329,7 +326,6 @@ body.dark-mode .project-card {
 }
 
 
-/* Mobile */
 
 @media (max-width: 600px) {
 
